@@ -1,4 +1,3 @@
-Tugas Besar Interaksi Desain
 Repository untuk Tugas Interaksi Desain RA
 
 Anggota Kelompok:
