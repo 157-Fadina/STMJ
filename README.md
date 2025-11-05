@@ -12,3 +12,5 @@ Link G-DOCS Proposal:
 https://docs.google.com/document/d/1b0qfATaNxHzVJP60YaVXm90joUY6UoC_hj3mM-vWRIk/edit?usp=sharing
 
 Link Figma : https://www.figma.com/design/8fx36AOMt7KIwSjyDNqPto/Interaksi-Desain-STMJ?node-id=0-1&t=4eGfIyUSb1ecrbdh-1 
+
+Link Laporan Akhir : https://docs.google.com/document/d/1Li8iGJCAY782FqqO5ukkJ6HAgGA1zysYkKxIrLxE8Fg/edit?usp=sharing 
